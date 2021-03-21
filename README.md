@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @appy33
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning web-dev, python and c
-- 💞️ I’m looking to collaborate on grapdhic designing projects using photoshop, illustrator and lightroom.
+- 💞️ I’m looking to collaborate on graphic designing projects using photoshop, illustrator and lightroom.
 - 📫 How to reach me - mail me on apoorv0303@gmail.com
 
 <!---
